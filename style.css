@@ -89,3 +89,6 @@ body {
   text-align: center;
   font-weight: 500;
 }
+.author a {
+  color: inherit;
+}
